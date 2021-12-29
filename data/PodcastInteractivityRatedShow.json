@@ -1,0 +1,14 @@
+{
+  "ratedShows": [
+    {
+      "showName": "The Yard",
+      "rating": 5,
+      "ratedAt": "2021-12-17T14:08:51.556370Z"
+    },
+    {
+      "showName": "Cortex",
+      "rating": 5,
+      "ratedAt": "2021-12-17T14:09:05.288455Z"
+    }
+  ]
+}
